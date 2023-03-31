@@ -1,4 +1,9 @@
-### Hi there 👋
+
+<h1 align="center">Hi 👋, I'm Daniel Cobos Peñas</h1>
+
+- 🎓 Currently finishing a Computer Science Degree and about to start a Data Mining Master at the **Complutense University of Madrid**
+- 📫 How to reach me: **danielcobospenas@gmail.com**
+
 
 <!--
 **danicobos01/danicobos01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
