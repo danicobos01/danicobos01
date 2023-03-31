@@ -2,14 +2,14 @@
 <h1 align="center">Hi 👋, I'm Daniel Cobos Peñas</h1>
 
 <ul>
-  <li>🎓 Currently finishing a Computer Science Degree and about to start a Data Mining Master at the **Complutense University of Madrid**</li>
+  <li>🎓 Currently finishing a <b>Computer Science Degree</b> and about to start a <b>Data Mining Master's Degree</b> at the <b>Complutense University of Madrid</b></li>
   <li>📫 How to reach me:
     <ul>
       <li> Linkedin: <a href="https://www.linkedin.com/in/daniel-cobos-pe%C3%B1as-0b1a3623a/">www.linkedin/danielcobospeñas</a> </li>
       <li> Gmail: <a href="mailto:danielcobospenas@gmail.com">danielcobospenas@gmail.com</a>   </li>
     </ul>
   </li>
-  <li>👨‍💻 Language and tools I know: <br><br>
+  <li>👨‍💻 Language and tools I've worked with: <br><br>
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
