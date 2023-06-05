@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Cobos Peñas</h1>
 
 <ul>
-  <li>🎓 Currently finishing a <b>Computer Science Degree</b> and about to start a <b>Data Mining Master's Degree</b> at the <b>Complutense University of Madrid</b></li>
+  <li>🎓 Currently finishing a <b>Computer Science Degree</b> and working as a Data Scientist at <a href="https://www.driblab.com/es/">Driblab</a>. Also about to start a <b>Data Mining Master's Degree</b> at the <b>Complutense University of Madrid. Right now wor</b></li>
   <li>📫 How to reach me:
     <ul>
       <li> Linkedin: <a href="https://www.linkedin.com/in/daniel-cobos-pe%C3%B1as-0b1a3623a/">www.linkedin/danielcobospeñas</a> </li>
