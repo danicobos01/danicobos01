@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Cobos Peñas</h1>
 
 <ul>
-  <li>🎓 Right now working as a Workday Integration Analyst at <a href="https://www.bnetbuilders.com/">BNB</a>. Also I studied a <b>Computer Science Bachelor's Degree</b> at the <b>Complutense University of Madrid</b> and a <b>Data Mining Master's Degree</b></li>
+  <li>🎓 Right now working as a Workday Senior Integration Consultant at <a href="https://www.bnetbuilders.com/">BNB</a>. Also I studied a <b>Computer Science Bachelor's Degree</b> at the <b>Complutense University of Madrid</b> and a <b>Data Mining Master's Degree</b></li>
   <li>📫 How to reach me:
     <ul>
       <li> Linkedin: <a href="https://www.linkedin.com/in/daniel-cobos-pe%C3%B1as-0b1a3623a/">www.linkedin/danielcobospeñas</a> </li>
